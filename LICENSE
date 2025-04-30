@@ -1,24 +1,36 @@
-BSD 2-Clause License
 
-Copyright (c) 2025, playm8
+Ce programme est un logiciel libre : vous pouvez le redistribuer et/ou le modifier selon les termes de la licence **GNU General Public License** telle que publiée par la Free Software Foundation, soit la version 3 de la licence, soit (à votre choix) toute version ultérieure.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+Ce programme est distribué dans l'espoir qu'il sera utile, mais **SANS AUCUNE GARANTIE** ; sans même la garantie implicite de **QUALITÉ MARCHANDE** ou d'**ADÉQUATION À UN USAGE PARTICULIER**. Consultez la licence GNU GPL pour plus de détails.
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+Vous devriez avoir reçu une copie de la GNU General Public License avec ce programme.  
+Sinon, consultez : [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+---
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+## 2. Documentation et médias – Creative Commons BY-NC-SA 4.0
+
+La documentation du projet (README, schémas, images, textes explicatifs) est sous licence :
+
+**[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**
+
+Vous êtes libre de :
+
+- **Partager** — copier, distribuer et transmettre le contenu
+- **Adapter** — remixer, transformer, et créer à partir du contenu
+
+Sous les conditions suivantes :
+
+- **Attribution** — Créditez l’auteur de manière appropriée.
+- **Pas d’usage commercial** — Ne pas utiliser ce contenu à des fins commerciales.
+- **Partage dans les mêmes conditions** — Si vous modifiez, vous devez partager sous la même licence.
+
+Plus d’infos sur : [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+---
+
+## Résumé
+
+- ✅ Le **code source** est librement utilisable et modifiable, tant que vos modifications restent également open source (**GPLv3**).
+- 🚫 Les **documents et plans** ne peuvent pas être utilisés à des fins commerciales (**CC BY-NC-SA**).
+
